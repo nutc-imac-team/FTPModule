@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">AndroidExample</string>
+	<string name="Title">UPLOAD&#160;INFORMATION</string>
+	<string name="List">List</string>
+	<string name="Create">"Create"</string>
+	<string name="Delete">Delete</string>
+	<string name="Upload">Upload</string>
+	<string name="Download">Download</string>
+</resources>
